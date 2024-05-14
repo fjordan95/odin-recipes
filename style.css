@@ -1,0 +1,24 @@
+html {
+    background-color: #FFF9E4;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    width: 250px;
+    height: auto;
+
+}
+.info {
+    line-height: 30px;
+}
+
+.ingredients {
+    list-style-type: none;
+
+}
+
+.steps {
+    list-style-position: inside;
+    line-height: 40px;
+}
